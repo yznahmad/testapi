@@ -9,7 +9,7 @@
   }
 
 
-	$: {console.log('count is ... '+ count)}
+	$: {console.log('Count is ... '+ count)}
 
 
 </script>
